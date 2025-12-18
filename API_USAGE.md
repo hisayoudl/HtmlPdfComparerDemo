@@ -51,7 +51,7 @@ if (result.MatchRateByHtml >= 0.95)
 
 ### HtmlPdfComparer 类
 
-主对比器类,提供HTML/PDF文档图片对比功能。
+主对比器类,提供HTML/PDF文档图片对比功能,比如pdf文件有10张图片，html里面有10张图片，就按照顺序一一对比是否里面的图片完全一致，返回对比结果。
 
 #### 构造函数
 
