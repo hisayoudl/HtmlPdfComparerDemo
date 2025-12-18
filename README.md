@@ -196,12 +196,12 @@ HtmlPdfComparerDemo/
 
 项目中的示例使用以下测试数据:
 
-```
-OracleMongoQuery/files/00453116-1-2-1-0-1#3/
+```测试文件
+/files/00453116-1-2-1-0-1#3/
 ├── 00453116-1-2-1-0-1#3.html  # HTML文档
 └── 00453116-1-2-1-0-1#3.pdf   # PDF文档
-
-OracleMongoQuery/test/logo/
+、、过滤标题图片在对比
+/test/logo/
 ├── logo1.png                   # Logo图片1
 └── logo2.png                   # Logo图片2
 ```
