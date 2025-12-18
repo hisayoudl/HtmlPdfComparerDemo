@@ -253,15 +253,9 @@ OracleMongoQuery/test/logo/
 
 ## 🔗 相关链接
 
-- NuGet包: [HtmlPDFContrastImage.Window](https://www.nuget.org/packages/HtmlPDFContrastImage.Window)
-- 问题反馈: [GitHub Issues](https://github.com/yourrepo/HtmlPdfComparerDemo/issues)
 
 ## 📧 联系方式
 
-如有问题或建议,请通过以下方式联系:
-
-- 提交 GitHub Issue
-- Email: your-email@example.com
 
 ---
 
